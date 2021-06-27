@@ -1,5 +1,6 @@
 # Stock-Market-Analysis-And-Forecasting-Using-Deep-Learning
-Pytorch, python, deep learning
+Pytorch, python, deep learning, gru
+This a project of Stock Market Analysis And Forecasting Using Deep Learning(pytorch,gru).
 
 Check out my Medium article ,where I have explained in detail.
 
