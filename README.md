@@ -15,7 +15,7 @@ Google | Microsoft | IBM | Amazon
 
 Analysis
 ------
-![UI](regex.jpg)
+![UI](download (12).png)
 
 Check out my Medium article ,where I have explained in detail.
 
