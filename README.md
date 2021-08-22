@@ -58,5 +58,5 @@ Web Application Demo:
 
 https://www.linkedin.com/posts/soham-nandi-b39288215_datascience-deeplearning-stockmarket-activity-6817124891163197440-nMmj
 
-THANK YOU :tada:
+THANK YOU :sparkling_heart:
 -----
