@@ -32,7 +32,16 @@ Forecasting
 **Time series forecasting** uses information regarding historical values and associated patterns to predict future activity. Most often, this relates to trend analysis, cyclical fluctuation analysis, and issues of seasonality. As with all forecasting methods, success is not guaranteed.
 
 **GRU Model:**
+
 Gated recurrent unit is essentially a simplified LSTM. It has the exact same role in the network. The main difference is in the number of gates and weights — GRU is somewhat simpler. It has 2 gates. Since it does not have an output gate, there is no control over the memory content. The update gate controls the information flow from the previous activation, and the addition of new information as well, while the reset gate is inserted into the candidate activation.
+
+<p align="left">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-diagram-of-a-GRU-cell_fig3_323570767&psig=AOvVaw2BtxcFWcMbo2PEseudhEFv&ust=1629724506837000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPio-obbxPICFQAAAAAdAAAAABAD" width="70" height="70">
+  </p>
+
+
+
+
 
 https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301
 
