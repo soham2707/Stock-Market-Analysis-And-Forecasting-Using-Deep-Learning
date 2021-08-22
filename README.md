@@ -11,9 +11,11 @@ In the first part of our project, we will try to analyze the data. and in the se
 
 DATASET
 ------
-
 Google | Microsoft | IBM | Amazon
 
+Analysis
+------
+![UI](regex.jpg)
 
 Check out my Medium article ,where I have explained in detail.
 
