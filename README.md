@@ -26,7 +26,9 @@ In Microsoft data, we can see in 2009 "High" value was under mean for a long tim
 ![UI](download14.jpg)
 
 In Google data,there is a very slow increasing trend until 2012, but after 2012 there was an exponential high trend. And very high seasonality.
-Fore
+
+Forecasting 
+------
 
 Check out my Medium article ,where I have explained in detail.
 
