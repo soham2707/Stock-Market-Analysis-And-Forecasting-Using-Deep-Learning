@@ -9,7 +9,8 @@ The task of stock prediction has always been a challenging problem for statistic
 
 In the first part of our project, we will try to analyze the data. and in the second part, we will forecast the stock market.
 
-##Dataset
+DATASET
+------
 
 Google | Microsoft | IBM | Amazon
 
