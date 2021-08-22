@@ -16,6 +16,7 @@ Google | Microsoft | IBM | Amazon
 Analysis
 ------
 ![UI](download12.jpg)
+
 As we can see here Microsoft's "High" value is very slowly increasing straight line. IBM's "High" value and Amazon's "High" value started from the approx same stage, even Amazon's "High" value was a bit lower but after 2012 Amazon's "High" value started to exponentially increase and slight drop for IBM's "High" value. Since 2016 there is a high fight going between Google's "High" value and Amazon's "High" value at 2018 Amazon's "High" value also beat Google's "High" value.
 
 ![UI](download13.jpg)
