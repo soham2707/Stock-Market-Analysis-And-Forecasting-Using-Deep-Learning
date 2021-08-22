@@ -43,8 +43,6 @@ Results
 -----
 ![UI](ibm.jpg)
 
-![UI](ibm2.jpg)
-
 ![UI](ibm3.jpg)
 
 
