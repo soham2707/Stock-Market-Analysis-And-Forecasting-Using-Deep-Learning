@@ -23,6 +23,9 @@ As we can see here Microsoft's "High" value is very slowly increasing straight l
 
 In Microsoft data, we can see in 2009 "High" value was under mean for a long time, so we can say there was some loss.
 
+![UI](download14.jpg)
+
+In Google data,there is a very slow increasing trend until 2012, but after 2012 there was an exponential high trend. And very high seasonality.
 Fore
 
 Check out my Medium article ,where I have explained in detail.
