@@ -45,9 +45,11 @@ Results
 
 ![UI](ibm3.jpg)
 
+Blog:
+----
 
-
-
+[Link to Google](https://www.google.com)
+Check out my Medium article ,where I have explained in detail.
 https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301
 
 Developed the web application for forecasting:
