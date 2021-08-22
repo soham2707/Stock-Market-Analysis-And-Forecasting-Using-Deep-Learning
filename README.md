@@ -15,7 +15,7 @@ Google | Microsoft | IBM | Amazon
 
 Analysis
 ------
-![UI](download (12).png)
+![UI](download12.jpg)
 
 Check out my Medium article ,where I have explained in detail.
 
